@@ -20,7 +20,7 @@ The program takes three integer arguments representing hours, minutes, and secon
 1. **Clone the repository to your local machine:**
 
    ```bash
-   git clone https://github.com/your-username/clock-time-difference.git
+   git clone https://github.com/aiza411/Time-Difference
 
 2. **Compile the program using a C++ compiler (e.g., g++):**
 
